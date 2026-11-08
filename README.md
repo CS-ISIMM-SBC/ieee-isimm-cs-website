@@ -230,7 +230,6 @@ All rights reserved by IEEE Computer Society ISIMM Student Branch.
 - **Website:** [cs-isimm.org](https://cs-isimm.org)
 - **Facebook:** [IEEE CS ISIMM](https://www.facebook.com/ieee.cs.isimm)
 - **Instagram:** [@ieee.cs.isimm](https://www.instagram.com/ieee.cs.isimm)
-- **Email:** contact@cs-isimm.org
 
 ---
 
