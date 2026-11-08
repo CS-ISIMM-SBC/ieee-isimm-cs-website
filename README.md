@@ -233,4 +233,4 @@ All rights reserved by IEEE Computer Society ISIMM Student Branch.
 
 ---
 
-Built with ❤️ by IEEE CS ISIMM | Empowering Students in Computer Science
+Built with ❤️ by IEEE CS ISIMM SBC | Empowering Students in Computer Science
